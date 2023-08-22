@@ -27,4 +27,4 @@ docker compose up --build
 http://localhost:3000
 ```
 You will be able to start application.
-![image](https://github.com/pratik-1/investment_calculator/assets/37976329/4dbd818f-5b8e-4b12-9d69-41e825b57e87)
+![image](https://user-images.githubusercontent.com/37976329/262377623-d84e26d1-dcab-4cab-9331-51cd7ecf670b.jpg)
